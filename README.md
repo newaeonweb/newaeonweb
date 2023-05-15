@@ -1,16 +1,30 @@
-### Hi there 👋
+<div>
+  <div style="text-align: center">
+    <img width="200" height="200" src="./images/me.webp" alt="FullStack Developer">
+  </div>
+  <h1 style="text-align: center">
+    <span >
+      Fernando Barba Dev<span style="color: gray">eloper</span>
+    </span>
+  </h1>
+  <p>
+    I'm Senior Software developer with 20+ years of professional experience, <a href="https://www.packtpub.com/authors/fernando-monteiro" target="_blank">@packtpub</a> author and working fulltime with TypeScript and <a href="https://www.amazon.com/Fernando-Monteiro/e/B00J73VOHO" target="_blank">Angular</a>.
+  </p>
+</div>
 
-<!--
-**newaeonweb/newaeonweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My books
 
-Here are some ideas to get you started:
+<div style="text-align: center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![my pyblished books](./images/books.jpeg)
+
+</div>
+
+---
+
+- 💻 I’m currently working on [@mendelics](https://github.com/mendelics) as Front-end engineer.
+- 💼 My past jobs include but are not limited to companies like: PagBank, PagSeguro, Biva, Siss Saúde.
+- 📫 How to reach me: check my [blog](https://barbadev.netlify.app/)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=newaeonweb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newaeonweb&layout=compact&theme=buefy&hide_border=true" /> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
