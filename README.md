@@ -1,7 +1,4 @@
 <div>
-  <div style="text-align: center">
-    <img width="200" height="200" src="./images/me.webp" alt="FullStack Developer">
-  </div>
   <h1 style="text-align: center">
     <span >
       Fernando Barba Dev<span style="color: gray">eloper</span>
