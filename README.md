@@ -22,6 +22,7 @@
 - 💻 I’m currently working on [@mendelics](https://github.com/mendelics) as Front-end engineer.
 - 💼 My past jobs include but are not limited to companies like: **Totvslabs**, **PagBank**, **PagSeguro**, **Biva**, **Siss Saúde**.
 - 📫 How to reach me: check my [blog](https://barbadev.netlify.app/)
+- 🔥 [Stackblitz Angular](https://stackblitz.com/@newaeonweb/collections/angular)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=newaeonweb&show_icons=true&include_all_commits=true&count_private=true&theme=flag-india&hide_border=true" alt="Fernando github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newaeonweb&layout=compact&theme=flag-india&hide_border=true" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
